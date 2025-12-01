@@ -241,22 +241,10 @@ curl http://localhost:3000/order/v10089015vdb-01
 - ✅ **Recursos adicionais** (JWT + Swagger)
 - ✅ **Código hospedado** em repositório Git
 
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -am 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 📞 Suporte
 
 Para dúvidas ou sugestões, abra uma issue no repositório ou entre em contato com a equipe de desenvolvimento.
 
 ---
 
-**Desenvolvido com ❤️ para o desafio de engenheiro de dados 2025**
+**Desenvolvido para o desafio Jr System Analyst**
